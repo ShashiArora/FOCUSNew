@@ -1,0 +1,17 @@
+ Dim allowedChars As String = "0123456789" & Chr(Keys.Back)
+
+
+        If allowedChars.IndexOf(e.KeyChar) = -1 Then
+            ' Invalid Character
+            e.Handled = True
+        End If
+
+
+
+
+ Dim allowedChars As String = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.-=+!@#$%^&*()?<>._/{}[]\|" & Chr(Keys.Back) & Chr(Keys.Space)
+
+        If allowedChars.IndexOf(e.KeyChar) = -1 Then
+            ' Invalid Character
+            e.Handled = True
+        End If

@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Focus", "Focus.vbproj", "{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7D495634-1CDD-4553-BB30-5CB7FB38E78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{50F56C0F-DE9E-4C6D-9C7C-73987E31EBEB}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
